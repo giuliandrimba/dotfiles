@@ -37,6 +37,8 @@ unsetopt correct_all
 alias server='python -m SimpleHTTPServer'
 alias ws='cd ~/workspace'
 alias chrome="/usr/bin/open -a '/Applications/Google Chrome.app'"
+alias b='bundle exec'
+alias rs='bundle exec rails server'
 
 . ~/nvm/nvm.sh
 
